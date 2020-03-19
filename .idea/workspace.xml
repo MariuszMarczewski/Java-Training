@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584446744574</updated>
       <workItem from="1584446757780" duration="9084000" />
-      <workItem from="1584612641703" duration="17914000" />
+      <workItem from="1584612641703" duration="21386000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584645830302</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AutoBoxing and UnBoxing">
+      <created>1584647350138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584647350138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,21 +139,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MobilePhone, ArrayList practice" />
     <MESSAGE value="fixing MobilePhone bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing MobilePhone bug" />
+    <MESSAGE value="AutoBoxing and UnBoxing" />
+    <option name="LAST_COMMIT_MESSAGE" value="AutoBoxing and UnBoxing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584630445528">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584649857399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584630445528" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584649857399" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584644520500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584645829434">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584647349001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584645829434" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584647349001" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,10 +199,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584645835494">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584647359040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584645835494" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584647359040" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
