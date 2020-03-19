@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="" />
+    <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhoneArrayList/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhoneArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhoneArrayList/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Training.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambdas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZFtbtez6RFJKzrTc2hTlXg9tZn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -30,14 +47,20 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambdas.Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ArrayList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.Main" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambdas.*" />
+          <option name="PATTERN" value="other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,55 +68,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MobilePhoneArrayList.Main" />
       <module name="Java Training" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MobilePhoneArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Main" />
       <module name="Java Training" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -108,7 +112,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584446744574</updated>
-      <workItem from="1584446757780" duration="2787000" />
+      <workItem from="1584446757780" duration="9084000" />
+      <workItem from="1584612641703" duration="16272000" />
     </task>
     <servers />
   </component>
@@ -116,41 +121,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584448094142">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584630445528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584448094142" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584448742983">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584630445528" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584644520500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584448742983" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584448742983">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584448742983" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584448742983">
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584627323946" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584644626903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584448742983" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584448742983">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584644626903" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584644626902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584448742983" />
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584447895700">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584644626902" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584644626902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584447895700" />
-    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1584447895699">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584644626902" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584644626902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584447895699" />
-    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1584447895699">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584644626902" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584617011297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584447895699" />
-    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1584447895700">
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584617011297" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1584617011296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584447895700" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1584617011296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1584617011296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584627336722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584627336722" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
+    <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584450724446" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584630416894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584630416894" />
   </component>
 </project>
