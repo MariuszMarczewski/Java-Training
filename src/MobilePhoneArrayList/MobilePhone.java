@@ -1,6 +1,7 @@
 package MobilePhoneArrayList;
 
 import javax.print.DocFlavor;
+import javax.sound.midi.Soundbank;
 import java.util.ArrayList;
 
 public class MobilePhone {
@@ -27,6 +28,10 @@ public class MobilePhone {
         int foundPosition = findContact(oldContact);
         if (foundPosition < 0) {
             System.out.println(oldContact.getName() + ", was not found.");
+            return false;
+        } else if(findContact(newContact.getName()) != -1){
+            System.out.println("Contact with name: " + newContact.getName() +
+                    " already exist. Update was not successful.");
             return false;
         }
 
