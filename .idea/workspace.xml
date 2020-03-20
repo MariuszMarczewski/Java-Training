@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Playlist/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +135,7 @@
       <updated>1584446744574</updated>
       <workItem from="1584446757780" duration="9084000" />
       <workItem from="1584612641703" duration="21386000" />
-      <workItem from="1584691148634" duration="12068000" />
+      <workItem from="1584691148634" duration="17678000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584693720904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Linked List done">
+      <created>1584703449898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584703449898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,41 +183,42 @@
     <MESSAGE value="fixing MobilePhone bug" />
     <MESSAGE value="AutoBoxing and UnBoxing" />
     <MESSAGE value="Banking Application done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Banking Application done" />
+    <MESSAGE value="Linked List done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked List done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584694654918">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584704944928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584694654918" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584704944928" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584644520500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584693719651">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584703448959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584693719651" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584703448959" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584627323946" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584703307474">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584710156144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584703307474">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584710156144" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584710156144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584703307473">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584710156144" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584710156143">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584703307473" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584703307474">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584710156143" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584710156144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584710156144" />
     <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584617011297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -235,10 +243,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584693724314">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584703458610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584693724314" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584703458610" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
