@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankingApplication/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankingApplication/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankingApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,20 @@
       <recent name="ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
+      <module name="Java Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.Main" />
       <module name="Java Training" />
@@ -87,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,10 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +135,7 @@
       <updated>1584446744574</updated>
       <workItem from="1584446757780" duration="9084000" />
       <workItem from="1584612641703" duration="21386000" />
-      <workItem from="1584691148634" duration="2520000" />
+      <workItem from="1584691148634" duration="12068000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -144,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584647350138</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Banking Application done">
+      <created>1584693720898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584693720904</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,41 +175,42 @@
     <MESSAGE value="MobilePhone, ArrayList practice" />
     <MESSAGE value="fixing MobilePhone bug" />
     <MESSAGE value="AutoBoxing and UnBoxing" />
-    <option name="LAST_COMMIT_MESSAGE" value="AutoBoxing and UnBoxing" />
+    <MESSAGE value="Banking Application done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Banking Application done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584691592305">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584694654918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584691592305" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584694654918" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584644520500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584650828533">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584693719651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584650828533" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584693719651" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584627323946" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584693364250">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584703307474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584693364250" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584693364249">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584703307474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584693364249" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584693364249">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584703307473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584693364249" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584693364250">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584703307473" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584703307474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584693364250" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584703307474" />
     <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584617011297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -213,10 +235,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584650835378">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584693724314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584650835378" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584693724314" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
