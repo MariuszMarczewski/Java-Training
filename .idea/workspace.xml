@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GameOfMonsters/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameOfMonsters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameOfMonsters/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameOfMonsters/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +137,7 @@
       <workItem from="1584446757780" duration="9084000" />
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
-      <workItem from="1584725108460" duration="971000" />
+      <workItem from="1584725108460" duration="3171000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584719244318</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Game of Monster done">
+      <created>1584728753639</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584728753639</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,21 +209,26 @@
     <MESSAGE value="Linked List done" />
     <MESSAGE value="PlayList done" />
     <MESSAGE value="Phones done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phones done" />
+    <MESSAGE value="Game of Monster done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game of Monster done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584728595736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584728595736" />
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584775859214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1584775859214" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584644520500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584719243465">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584728752442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584719243465" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584728752442" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -262,10 +273,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584719261828">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584728769564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584719261828" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584728769564" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
