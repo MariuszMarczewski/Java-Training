@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PlaylistInner/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaylistInner/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaylistInner/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Penguin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaylistInner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaylistInner/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
       <recent name="ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
       <module name="Java Training" />
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MobilePhoneArrayList.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.Main" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MobilePhoneArrayList.*" />
+          <option name="PATTERN" value="abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +141,7 @@
       <workItem from="1584446757780" duration="9084000" />
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
-      <workItem from="1584725108460" duration="4248000" />
+      <workItem from="1584725108460" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -202,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584778168874</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Playlist added Inner Class version">
+      <created>1584788974694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584788974694</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +229,8 @@
     <MESSAGE value="Phones done" />
     <MESSAGE value="Game of Monster done" />
     <MESSAGE value="GearBox InnerClasses done" />
-    <option name="LAST_COMMIT_MESSAGE" value="GearBox InnerClasses done" />
+    <MESSAGE value="Playlist added Inner Class version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playlist added Inner Class version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584728595736">
@@ -233,10 +245,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584778167978">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584788973327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584778167978" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584788973327" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -281,10 +293,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584778171648">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584788977565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584778171648" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584788977565" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
