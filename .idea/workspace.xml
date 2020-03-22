@@ -32,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/scopeChallenge" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/accessModifiers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,11 +46,11 @@
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MariuszMarczewski\Java Learning\src\scopeChallenge" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\scope" />
       <recent name="C:\MariuszMarczewski\Java Learning\src" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\naming" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\genericsChallange" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\generics" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -143,7 +143,7 @@
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
-      <workItem from="1584866394410" duration="6188000" />
+      <workItem from="1584866394410" duration="6927000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584891467063</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="scope challenge done">
+      <created>1584892617463</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584892617463</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +286,8 @@
     <MESSAGE value="Generics Challenge done" />
     <MESSAGE value="Naming Packages done" />
     <MESSAGE value="scope done" />
-    <option name="LAST_COMMIT_MESSAGE" value="scope done" />
+    <MESSAGE value="scope challenge done" />
+    <option name="LAST_COMMIT_MESSAGE" value="scope challenge done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -294,14 +302,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584891466001">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584892616559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584891466001" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584891319447">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584892616559" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584893943829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584891319447" />
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584893943829" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -334,18 +342,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584891325185">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584893957318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584891325185" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584893957318" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584891471369">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584892619981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584891471369" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584892619981" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
