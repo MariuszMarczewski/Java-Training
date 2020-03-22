@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/password/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password/SomeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/password" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/seatBookingSystem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="password" />
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -147,7 +145,7 @@
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
       <workItem from="1584866394410" duration="7685000" />
-      <workItem from="1584900618045" duration="606000" />
+      <workItem from="1584900618045" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -275,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584894087947</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="password modified">
+      <created>1584901371986</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584901371986</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +304,8 @@
     <MESSAGE value="scope done" />
     <MESSAGE value="scope challenge done" />
     <MESSAGE value="access modifiers done" />
-    <option name="LAST_COMMIT_MESSAGE" value="access modifiers done" />
+    <MESSAGE value="password modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="password modified" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -314,14 +320,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584894087148">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584901371024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584894087148" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584901209753">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584901371024" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584903980812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584901209753" />
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584903980812" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -354,18 +360,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584901215344">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584903989344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584901215344" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584903989344" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584894091403">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584901376097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584894091403" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584901376097" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584901198840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
