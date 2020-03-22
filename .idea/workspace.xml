@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/ListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/NodeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LinkedListAbstractRecursive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/generics" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +44,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ArrayList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MariuszMarczewski\Java Learning\src\LinkedListAbstractRecursive" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -141,7 +139,7 @@
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
-      <workItem from="1584866394410" duration="847000" />
+      <workItem from="1584866394410" duration="2361000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584791123416</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="LinkedList Abstract &amp; Recursive done">
+      <created>1584867356909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584867356909</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +242,8 @@
     <MESSAGE value="Game of Monster done" />
     <MESSAGE value="GearBox InnerClasses done" />
     <MESSAGE value="Playlist added Inner Class version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Playlist added Inner Class version" />
+    <MESSAGE value="LinkedList Abstract &amp; Recursive done" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList Abstract &amp; Recursive done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -252,30 +258,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584791122508">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584867355669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584791122508" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584867355669" />
     <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584627323946" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584792667375">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584792667375" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584792667374">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584868806813" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584868806812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584792667374" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584792667374">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584868806812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584792667374" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584792667375">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584868806812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584792667375" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
     <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584617011297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -300,10 +306,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584791125659">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584867360091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584791125659" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584867360091" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
