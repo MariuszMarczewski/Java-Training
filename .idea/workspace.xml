@@ -32,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/generics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/genericsChallange" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +46,7 @@
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MariuszMarczewski\Java Learning\src\generics" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\LinkedListAbstractRecursive" />
     </key>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
-      <workItem from="1584866394410" duration="2361000" />
+      <workItem from="1584866394410" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -225,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584867356909</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Generics done">
+      <created>1584872697488</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584872697488</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +251,8 @@
     <MESSAGE value="GearBox InnerClasses done" />
     <MESSAGE value="Playlist added Inner Class version" />
     <MESSAGE value="LinkedList Abstract &amp; Recursive done" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList Abstract &amp; Recursive done" />
+    <MESSAGE value="Generics done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -258,14 +267,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584867355669">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584872696461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584867355669" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584627323946">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584872696461" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584874107145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584627323946" />
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584874107145" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,18 +307,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584627336722">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584874115327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584627336722" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584874115327" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584867360091">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584872705231">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584867360091" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584872705231" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
