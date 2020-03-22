@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/ScopeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/naming" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/scope" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,9 +48,11 @@
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MariuszMarczewski\Java Learning\src\scope" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\naming" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\genericsChallange" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\generics" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\LinkedListAbstractRecursive" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -141,7 +145,7 @@
       <workItem from="1584612641703" duration="21386000" />
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
-      <workItem from="1584866394410" duration="3997000" />
+      <workItem from="1584866394410" duration="5194000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -241,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584874261362</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Naming Packages done">
+      <created>1584876996843</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584876996843</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +272,8 @@
     <MESSAGE value="LinkedList Abstract &amp; Recursive done" />
     <MESSAGE value="Generics done" />
     <MESSAGE value="Generics Challenge done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics Challenge done" />
+    <MESSAGE value="Naming Packages done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Naming Packages done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -276,14 +288,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584874260374">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584876995792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584874260374" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584876936695">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584876995792" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584891319447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584876936695" />
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584891319447" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -316,18 +328,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584876943333">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584891325185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584876943333" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584891325185" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584874263236">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584876999117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584874263236" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584876999117" />
     <state x="65" y="0" key="new project wizard" timestamp="1584450724446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
