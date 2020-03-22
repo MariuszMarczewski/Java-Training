@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/seatBookingSystemBinary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seatBookingSystemBinary/Theatre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/seatBookingSystem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/seatBookingSystemBinary" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,11 +49,11 @@
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MariuszMarczewski\Java Learning\src\seatBookingSystemBinary" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\seatBookingSystem" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\accessModifiers" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\scopeChallenge" />
       <recent name="C:\MariuszMarczewski\Java Learning\src\scope" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\naming" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -145,7 +147,7 @@
       <workItem from="1584691148634" duration="19855000" />
       <workItem from="1584725108460" duration="6068000" />
       <workItem from="1584866394410" duration="7685000" />
-      <workItem from="1584900618045" duration="1383000" />
+      <workItem from="1584900618045" duration="1630000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -280,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584901371986</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="theatre seat booking system done">
+      <created>1584904060301</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584904060301</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +314,8 @@
     <MESSAGE value="scope challenge done" />
     <MESSAGE value="access modifiers done" />
     <MESSAGE value="password modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="password modified" />
+    <MESSAGE value="theatre seat booking system done" />
+    <option name="LAST_COMMIT_MESSAGE" value="theatre seat booking system done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
@@ -320,14 +330,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584901371024">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584904059370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584901371024" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584903980812">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584904059370" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584904154706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584903980812" />
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584904154706" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -360,18 +370,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584903989344">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584904161047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584903989344" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584904161047" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584901376097">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584904061741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584901376097" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584904061741" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584901198840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
