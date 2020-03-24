@@ -1,7 +1,6 @@
 package generics;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class Main {
 
@@ -37,10 +36,10 @@ public class Main {
 //        adelaideCrows.matchResult(baseballTeam, 1, 1);
 
         System.out.println("Rankings");
-        System.out.println(adelaideCrows.getName() + ": " + adelaideCrows.ranking());
-        System.out.println(melbourne.getName() + ": " + melbourne.ranking());
-        System.out.println(fremantle.getName() + ": " + fremantle.ranking());
-        System.out.println(hawthorn.getName() + ": " + hawthorn.ranking());
+        System.out.println(adelaideCrows.getName() + ": " + adelaideCrows.getRanking());
+        System.out.println(melbourne.getName() + ": " + melbourne.getRanking());
+        System.out.println(fremantle.getName() + ": " + fremantle.getRanking());
+        System.out.println(hawthorn.getName() + ": " + hawthorn.getRanking());
 
         System.out.println(adelaideCrows.compareTo(melbourne));
         System.out.println(adelaideCrows.compareTo(hawthorn));

@@ -57,15 +57,15 @@ public class Team<T extends Player> implements Comparable<Team<T>> {
         }
     }
 
-    public int ranking() {
+    public int getRanking() {
         return (won * 2) + tied;
     }
 
     @Override
     public int compareTo(Team<T> team) {
-        if(this.ranking() > team.ranking()) {
+        if(this.getRanking() > team.getRanking()) {
             return -1;
-        } else if(this.ranking() < team.ranking()) {
+        } else if(this.getRanking() < team.getRanking()) {
             return 1;
         } else {
             return 0;
