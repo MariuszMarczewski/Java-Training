@@ -97,7 +97,7 @@ public class Demo {
                         }
                         goingForward = false;
                     }
-                    if (listIterator.hasNext()){
+                    if (listIterator.hasPrevious()){
                         System.out.println("Now visiting " + listIterator.previous());
                     } else {
                         System.out.println("We are at the start of the list.");

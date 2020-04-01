@@ -45,7 +45,8 @@ public class MobilePhone implements ITelephone {
     }
 
     @Override
-    public boolean isRinging() {
+    public boolean isRinging()
+    {
         return isRinging;
     }
 }

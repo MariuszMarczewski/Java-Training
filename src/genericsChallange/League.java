@@ -24,5 +24,6 @@ public class League<T extends Team> {
         for(T t : league) {
             System.out.println(t.getName() + ": " + t.ranking());
         }
+
     }
 }

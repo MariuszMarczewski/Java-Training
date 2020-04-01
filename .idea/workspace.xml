@@ -2,9 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d976ad17-2a94-4bec-aceb-f2c9e8ac5340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambdaFunction/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaFunction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaFunctionBiAndUnary/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaFunctionBiAndUnary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroduction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionFunctionalProgrammingAndPredicate/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionFunctionalProgrammingAndPredicate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionNestedBlocks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionPredicateAndSupplier/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionPredicateAndSupplier/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaIntroductionScope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGame/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGameChallenge/mapAdventureGame/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGameChallenge/mapAdventureGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGameInmutable/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapAdventureGameInmutable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapProgram/MapProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moonsSetAndHasSet/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moonsSetAndHasSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/SetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planetChallenge/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seatBookingSystemComparatorComparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seatBookingSystemComparatorComparable/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setTricks/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockChallenge/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockChallenge/StockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockChallenge/StockList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stockMaps/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamsChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListAbstraction/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListAbstraction/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListAbstraction/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phones/Gearbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phones/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phones/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericsChallange/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericsChallange/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/password/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/password/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +111,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/seatBookingSystemBinary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/streams" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,50 +122,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="streamsChallenge" />
       <recent name="password" />
       <recent name="ArrayList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\MariuszMarczewski\Java Learning\src\seatBookingSystemBinary" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\seatBookingSystem" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\accessModifiers" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\scopeChallenge" />
-      <recent name="C:\MariuszMarczewski\Java Learning\src\scope" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\streams" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\lambdaFunctionBiAndUnary" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\lambdaFunction" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\lambdaIntroductionPredicateAndSupplier" />
+      <recent name="C:\MariuszMarczewski\Java Learning\src\lambdaIntroductionFunctionalProgrammingAndPredicate" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stockMaps.DogMain" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.Main" />
-      <module name="Java Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListAbstraction.Main" />
-      <module name="Java Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedListAbstraction.*" />
+          <option name="PATTERN" value="stockMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +149,24 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Main" />
+      <option name="MAIN_CLASS_NAME" value="password.Main" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope.Main" />
+      <module name="Java Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +175,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Phones.Main" />
+      <option name="MAIN_CLASS_NAME" value="stockMaps.Main" />
       <module name="Java Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Phones.*" />
+          <option name="PATTERN" value="stockMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stockMaps.SetMain" />
+      <module name="Java Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stockMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,10 +202,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.SetMain" />
+        <item itemvalue="Application.DogMain" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
@@ -163,7 +227,10 @@
       <workItem from="1584866394410" duration="7685000" />
       <workItem from="1584900618045" duration="20670000" />
       <workItem from="1584990213044" duration="7726000" />
-      <workItem from="1585034002086" duration="5584000" />
+      <workItem from="1585034002086" duration="36221000" />
+      <workItem from="1585292454036" duration="4292000" />
+      <workItem from="1585314514804" duration="4952000" />
+      <workItem from="1585381384727" duration="38051000" />
     </task>
     <task id="LOCAL-00001" summary="MobilePhone, ArrayList practice">
       <created>1584644965420</created>
@@ -312,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584904478865</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="comparable generic version done">
+      <created>1585044080265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585044080265</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,13 +413,18 @@
     <MESSAGE value="password modified" />
     <MESSAGE value="theatre seat booking system done" />
     <MESSAGE value="theatre seat booking binary version system done" />
-    <option name="LAST_COMMIT_MESSAGE" value="theatre seat booking binary version system done" />
+    <MESSAGE value="comparable generic version done" />
+    <option name="LAST_COMMIT_MESSAGE" value="comparable generic version done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866735911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584866735911" />
+    <state x="457" y="56" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585318357959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="56" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585318357959" />
     <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584971855218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -354,30 +433,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584644520500" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584904477999">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585044079252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584904477999" />
-    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1584904154706">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585044079252" />
+    <state x="463" y="69" key="FileChooserDialogImpl" timestamp="1585506750024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584904154706" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1584868806813">
+    <state x="463" y="69" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585506750024" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585669856953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584868806813" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1584868806812">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585669856953" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585669856953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1584868806812">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585669856953" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585669856953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1584868806812">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585669856953" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585669856953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584868806812" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585669856953" />
     <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1584617011297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -394,22 +473,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584617011296" />
-    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1584904161047">
+    <state x="304" y="128" key="NewModule_or_Project.wizard" timestamp="1585506755524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584904161047" />
+    <state x="304" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1585506755524" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1584625212721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584625212721" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584904481584">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1585044081988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584904481584" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585038526646">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585044081988" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585314589157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585038526646" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585314589157" />
     <state x="65" y="0" key="new project wizard" timestamp="1584951213203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
